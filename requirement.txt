@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+langchain 
+faiss-cpu 
+google-generativeai 
+PyPDF2
+langchain-google-genai
+langchain_community
+wikipedia
+numexpr
